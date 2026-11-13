@@ -1,0 +1,26 @@
+name: sweet_dream
+description: SweetDream audiobook and ebook app, implemented from Pixso.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.13.0
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: 6.8.1
+  shared_preferences: 2.5.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito.ttf

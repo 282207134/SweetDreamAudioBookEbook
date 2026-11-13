@@ -1,0 +1,655 @@
+{
+  "document": "Sweet dream",
+  "readAt": "2026-11-13",
+  "platform": "pixso-china",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "🍭 Sweet dream",
+      "frames": 42
+    },
+    {
+      "id": "651:29008",
+      "name": "🔖 Cover",
+      "frames": 3
+    },
+    {
+      "id": "0:5230",
+      "name": "🚀 Symbols",
+      "topLevelComponents": 28
+    }
+  ],
+  "frames": [
+    {
+      "id": "0:2",
+      "name": "Profile 1 - Dark",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2171,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "reference": "01-profile-1-dark.png",
+      "screenshot": "dark-08-profile.png"
+    },
+    {
+      "id": "0:190",
+      "name": "Profile scroll - Dark",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3121,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "02-profile-scroll-dark.png",
+      "screenshot": "dark-10-profile-scrolled.png"
+    },
+    {
+      "id": "0:490",
+      "name": "Profile swipe down - Dark",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2646,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8,
+      "reference": "03-profile-swipe-down-dark.png",
+      "screenshot": "dark-09-profile-expanded.png"
+    },
+    {
+      "id": "0:786",
+      "name": "Home",
+      "type": "FRAME",
+      "bounds": {
+        "x": -679,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "04-home.png",
+      "screenshot": "light-02-home.png"
+    },
+    {
+      "id": "105:2743",
+      "name": "Home - Dark",
+      "type": "FRAME",
+      "bounds": {
+        "x": -679,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "05-home-dark.png",
+      "screenshot": "dark-02-home.png"
+    },
+    {
+      "id": "650:21695",
+      "name": "Home - playing bg - Dark",
+      "type": "FRAME",
+      "bounds": {
+        "x": -204,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "06-home-playing-bg-dark.png",
+      "screenshot": "dark-03-home-playing.png"
+    },
+    {
+      "id": "2:3474",
+      "name": "Home - playing bg",
+      "type": "FRAME",
+      "bounds": {
+        "x": -204,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "07-home-playing-bg.png",
+      "screenshot": "light-03-home-playing.png"
+    },
+    {
+      "id": "0:1595",
+      "name": "My books",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1696,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 11,
+      "reference": "08-my-books.png",
+      "screenshot": "light-07-library.png"
+    },
+    {
+      "id": "650:23221",
+      "name": "My books",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1696,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 11,
+      "reference": "09-my-books.png",
+      "screenshot": "dark-07-library.png"
+    },
+    {
+      "id": "0:1635",
+      "name": "Search",
+      "type": "FRAME",
+      "bounds": {
+        "x": 271,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "reference": "10-search.png",
+      "screenshot": "light-04-search.png"
+    },
+    {
+      "id": "650:22346",
+      "name": "Search",
+      "type": "FRAME",
+      "bounds": {
+        "x": 271,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "reference": "11-search.png",
+      "screenshot": "dark-04-search.png"
+    },
+    {
+      "id": "253:3114",
+      "name": "Slapsh screen",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1154,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "12-slapsh-screen.png",
+      "screenshot": "light-01-welcome.png"
+    },
+    {
+      "id": "670:5323",
+      "name": "Slapsh screen",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1154,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "13-slapsh-screen.png",
+      "screenshot": "dark-01-welcome.png"
+    },
+    {
+      "id": "0:1666",
+      "name": "Search when scrolling",
+      "type": "FRAME",
+      "bounds": {
+        "x": 746,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "reference": "14-search-when-scrolling.png",
+      "screenshot": "light-05-search-scrolled.png"
+    },
+    {
+      "id": "650:22354",
+      "name": "Search when scrolling",
+      "type": "FRAME",
+      "bounds": {
+        "x": 746,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "reference": "15-search-when-scrolling.png",
+      "screenshot": "dark-05-search-scrolled.png"
+    },
+    {
+      "id": "0:1679",
+      "name": "Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2171,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "reference": "16-profile.png",
+      "screenshot": "light-08-profile.png"
+    },
+    {
+      "id": "0:1859",
+      "name": "Profile scroll",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3121,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "reference": "17-profile-scroll.png",
+      "screenshot": "light-10-profile-scrolled.png"
+    },
+    {
+      "id": "0:2176",
+      "name": "Profile swipe down",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2646,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "reference": "18-profile-swipe-down.png",
+      "screenshot": "light-09-profile-expanded.png"
+    },
+    {
+      "id": "0:2465",
+      "name": "Now Playing - off",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3596,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "19-now-playing-off.png",
+      "screenshot": "light-11-player-paused.png"
+    },
+    {
+      "id": "650:24006",
+      "name": "Now Playing - off",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3596,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "20-now-playing-off.png",
+      "screenshot": "dark-11-player-paused.png"
+    },
+    {
+      "id": "2:4099",
+      "name": "Now Playing - on",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4071,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 15,
+      "reference": "21-now-playing-on.png",
+      "screenshot": "light-12-player-playing.png"
+    },
+    {
+      "id": "650:24055",
+      "name": "Now Playing - on",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4071,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 15,
+      "reference": "22-now-playing-on.png",
+      "screenshot": "dark-12-player-playing.png"
+    },
+    {
+      "id": "0:2526",
+      "name": "Search Filter",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1221,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 45,
+      "reference": "23-search-filter.png",
+      "screenshot": "light-06-filter.png"
+    },
+    {
+      "id": "651:29009",
+      "name": "Search Filter",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1221,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 45,
+      "reference": "24-search-filter.png",
+      "screenshot": "dark-06-filter.png"
+    },
+    {
+      "id": "0:2587",
+      "name": "Checkout - save on",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4546,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10,
+      "reference": "25-checkout-save-on.png",
+      "screenshot": "light-13-checkout-save.png"
+    },
+    {
+      "id": "650:24105",
+      "name": "Checkout - save on",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4546,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10,
+      "reference": "26-checkout-save-on.png",
+      "screenshot": "dark-13-checkout-save.png"
+    },
+    {
+      "id": "2:3108",
+      "name": "Checkout - save off",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5021,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10,
+      "reference": "27-checkout-save-off.png",
+      "screenshot": "light-14-checkout-unsaved.png"
+    },
+    {
+      "id": "650:24156",
+      "name": "Checkout - save off",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5021,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10,
+      "reference": "28-checkout-save-off.png",
+      "screenshot": "dark-14-checkout-unsaved.png"
+    },
+    {
+      "id": "0:2638",
+      "name": "About",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5496,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "29-about.png",
+      "screenshot": "light-15-about.png"
+    },
+    {
+      "id": "650:24207",
+      "name": "About",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5496,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "reference": "30-about.png",
+      "screenshot": "dark-15-about.png"
+    },
+    {
+      "id": "0:2681",
+      "name": "Registration",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5971,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "31-registration.png",
+      "screenshot": "light-16-registration.png"
+    },
+    {
+      "id": "650:24250",
+      "name": "Registration",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5971,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "32-registration.png",
+      "screenshot": "dark-16-registration.png"
+    },
+    {
+      "id": "0:3117",
+      "name": "Registration 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7871,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "33-registration-2.png",
+      "screenshot": "light-20-registration-full.png"
+    },
+    {
+      "id": "650:24686",
+      "name": "Registration 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7871,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 1,
+      "reference": "34-registration-3.png",
+      "screenshot": "dark-20-registration-full.png"
+    },
+    {
+      "id": "650:28865",
+      "name": "Registration 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8346,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 1,
+      "reference": "35-registration-4.png",
+      "screenshot": "dark-21-login-full.png"
+    },
+    {
+      "id": "0:3556",
+      "name": "Login 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 8346,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "36-login-2.png",
+      "screenshot": "light-21-login-full.png"
+    },
+    {
+      "id": "0:3978",
+      "name": "Login",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6446,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "37-login.png",
+      "screenshot": "light-17-login.png"
+    },
+    {
+      "id": "650:25547",
+      "name": "Login",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6446,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "38-login.png",
+      "screenshot": "dark-17-login.png"
+    },
+    {
+      "id": "0:4397",
+      "name": "Reset Password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6921,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "39-reset-password.png",
+      "screenshot": "light-18-reset.png"
+    },
+    {
+      "id": "650:25966",
+      "name": "Reset Password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6921,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "40-reset-password.png",
+      "screenshot": "dark-18-reset.png"
+    },
+    {
+      "id": "0:4815",
+      "name": "Create new password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7396,
+        "y": -410,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "41-create-new-password.png",
+      "screenshot": "light-19-password.png"
+    },
+    {
+      "id": "650:26384",
+      "name": "Create new password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7396,
+        "y": 1381,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "reference": "42-create-new-password.png",
+      "screenshot": "dark-19-password.png"
+    }
+  ]
+}
+
